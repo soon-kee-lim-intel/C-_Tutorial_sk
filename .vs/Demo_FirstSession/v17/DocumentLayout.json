@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sk\\Programming\\C#\\Tutorial\\Demo_FirstSession\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBC5083-0A78-47FC-8F59-6BC707F3852A}|Demo_FirstSession\\Demo_FirstSession.csproj|c:\\sk\\programming\\c#\\tutorial\\demo_firstsession\\demo_firstsession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBC5083-0A78-47FC-8F59-6BC707F3852A}|Demo_FirstSession\\Demo_FirstSession.csproj|solutionrelative:demo_firstsession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ad9b49e0-7538-469a-9e53-6429777a2a88}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c62b18f-232a-43f4-9d6c-e52456a2464c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sk\\Programming\\C#\\Tutorial\\Demo_FirstSession\\Demo_FirstSession\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_FirstSession\\Program.cs",
+              "ToolTip": "C:\\sk\\Programming\\C#\\Tutorial\\Demo_FirstSession\\Demo_FirstSession\\Program.cs",
+              "RelativeToolTip": "Demo_FirstSession\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:27:17.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
