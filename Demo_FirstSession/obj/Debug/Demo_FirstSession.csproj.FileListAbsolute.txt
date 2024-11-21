@@ -1,0 +1,7 @@
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\bin\Debug\Demo_FirstSession.exe.config
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\bin\Debug\Demo_FirstSession.exe
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\bin\Debug\Demo_FirstSession.pdb
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\obj\Debug\Demo_FirstSession.csproj.AssemblyReference.cache
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\obj\Debug\Demo_FirstSession.csproj.CoreCompileInputs.cache
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\obj\Debug\Demo_FirstSession.exe
+C:\sk\Programming\C#\Tutorial\Demo_FirstSession\Demo_FirstSession\obj\Debug\Demo_FirstSession.pdb
